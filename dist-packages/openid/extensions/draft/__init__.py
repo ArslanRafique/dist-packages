@@ -1,0 +1,1 @@
+../../../../../../share/pyshared/openid/extensions/draft/__init__.py

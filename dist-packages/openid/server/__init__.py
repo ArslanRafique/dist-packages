@@ -1,0 +1,1 @@
+../../../../../share/pyshared/openid/server/__init__.py

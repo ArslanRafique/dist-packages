@@ -1,0 +1,1 @@
+../../../../../share/pyshared/openid/server/trustroot.py

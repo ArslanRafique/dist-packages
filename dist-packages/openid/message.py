@@ -1,0 +1,1 @@
+../../../../share/pyshared/openid/message.py

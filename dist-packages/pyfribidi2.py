@@ -1,0 +1,1 @@
+../../../share/pyshared/pyfribidi2.py

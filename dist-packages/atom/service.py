@@ -1,0 +1,1 @@
+../../../../share/pyshared/atom/service.py

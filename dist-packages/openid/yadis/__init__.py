@@ -1,0 +1,1 @@
+../../../../../share/pyshared/openid/yadis/__init__.py

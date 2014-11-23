@@ -1,0 +1,1 @@
+../../../../share/pyshared/recordMyDesktop/rmdStrings.py

@@ -1,0 +1,1 @@
+../../../../share/pyshared/recordMyDesktop/__init__.py
