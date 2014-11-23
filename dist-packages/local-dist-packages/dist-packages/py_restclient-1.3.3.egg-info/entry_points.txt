@@ -1,0 +1,3 @@
+[console_scripts]
+restcli = restclient.bin.rest_cli:main
+
